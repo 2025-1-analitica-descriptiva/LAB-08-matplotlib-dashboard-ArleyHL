@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 files
+docs
 # C extensions
 *.so
 
